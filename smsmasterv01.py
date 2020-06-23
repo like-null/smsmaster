@@ -24,7 +24,7 @@ print("--------------------------------    Version:- 1.0   ---------------------
 print("-------------------------     by - Atul Kumar Singh     ----------------------------")  
 print("")
 print("         go to https://github.com/like-null for these type of programs")
-print(")
+print("")
 print("      and check for updates here :- https://github.com/like-null/smsmaster")   
 print("")                                                                             
 print("                                   Disclamer : ")
